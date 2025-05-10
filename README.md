@@ -1,6 +1,6 @@
 ### Hi there, it's Patrick 👋
 
-- 🏢 I'm currently working at [adesso SE](https://www.adesso.de)
+- 🏢 I'm currently working as a Solution Architect at [adesso SE](https://www.adesso.de)
 - 🌱 I’m currently learning ... everything? (You never end learning 😄)
 - 👯 I’m looking to collaborate on open source projects
 - 🔭 I’m currently interested on topics like java development, kubernetes, seafile, bitwarden, and many more...
